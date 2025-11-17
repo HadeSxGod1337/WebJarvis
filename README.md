@@ -2,6 +2,10 @@
 
 Автономный AI-агент для автоматизации браузера на базе OpenAI GPT-4o и Playwright.
 
+## Демонстрация
+
+[![Демонстрация работы WebJARVIS](https://img.youtube.com/vi/EP5UuWdsXXc/0.jpg)](https://www.youtube.com/watch?v=EP5UuWdsXXc)
+
 ## Возможности
 
 - Автономное управление браузером для выполнения сложных многошаговых задач
